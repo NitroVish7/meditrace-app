@@ -1,7 +1,6 @@
 # MediTrace
 
-**Medication continuity, safe handover and reconciliation · Problem Statement 4**
-Team **NOVACODE** · SRM Ramapuram
+**Medication continuity, safe handover and reconciliation · 
 
 MediTrace closes the handover gap between hospital discharge and the first outpatient visit. It reconciles both medication lists, traces each value to its source line, flags discrepancies with deterministic rules, and requires two verified clinicians to sign each decision before the patient sees plain-language instructions.
 
@@ -50,7 +49,3 @@ vercel.json       static hosting config (no build)
 ## Deploy (free)
 
 Import this repository on [Vercel](https://vercel.com/new) (Hobby plan). The framework preset is **Other**, with no build command and output directory `.`. No environment variables are needed.
-
-## Team NOVACODE · SRM Ramapuram
-
-Sai Sidharth R · K Sakthidharan · Vishal Rajesh · Sai Sharan Ravichandran
