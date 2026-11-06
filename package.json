@@ -1,0 +1,15 @@
+{
+  "name": "meditrace-app",
+  "version": "2.0.0",
+  "private": true,
+  "description": "MediTrace: medication continuity, safe handover and reconciliation (Problem Statement 4). Team NOVACODE, SRM Ramapuram. Static React app, synthetic demo data only.",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx --yes serve@14.2.4 -l 3000 .",
+    "dev": "npx --yes serve@14.2.4 -l 3000 .",
+    "build": "echo \"No build step: static React app (React 18 UMD + in-browser JSX). Files are served as-is.\""
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
